@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: testapp-backend
-          image: tomtechstarter/testapp-express-backend:latest
+          image: stud3ntjan/testapp-express-backend:latest
           imagePullPolicy: "Always"
           resources:
             requests:
