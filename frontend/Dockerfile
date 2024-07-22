@@ -1,5 +1,5 @@
 # next.js image 
-FROM node:14
+FROM node:18
 
 # directory
 WORKDIR /app
